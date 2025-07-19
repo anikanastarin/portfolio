@@ -1,5 +1,9 @@
+import Education from "@/components/Education";
 import Header from "@/components/Header";
+import Publications from "@/components/Publications";
+import Skills from "@/components/Skills";
 import Summary from "@/components/Summary";
+import WorkExperience from "@/components/WorkExperience";
 import Head from "next/head";
 
 export default function Home() {
@@ -34,7 +38,10 @@ export default function Home() {
           property="og:title"
           content="Anika Nastarin - Assistant School Teacher"
         />
-        <meta property="og:image" content="" />
+        <meta
+          property="og:image"
+          content="https://res.cloudinary.com/dzacz6e0z/image/upload/v1752952708/website_nqn8us.png"
+        />
         <meta property="fb:app_id" content="" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="628" />
@@ -48,7 +55,10 @@ export default function Home() {
           name="twitter:description"
           content="Anika Nastarin - Assistant School Teacher"
         />
-        <meta name="twitter:image" content="" />
+        <meta
+          name="twitter:image"
+          content="https://res.cloudinary.com/dzacz6e0z/image/upload/v1752952708/website_nqn8us.png"
+        />
         <meta
           name="keywords"
           content="Anika Nastarin - Assistant School Teacher"
@@ -73,6 +83,10 @@ export default function Home() {
       <div className="md:w-1/2 mx-auto min-h-screen px-10 py-5 rounded-lg shadow-2xl dark:shadow-amber-500 m-20">
         <Header />
         <Summary />
+        <WorkExperience />
+        <Publications />
+        <Education />
+        <Skills />
       </div>
     </>
   );
