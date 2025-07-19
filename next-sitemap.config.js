@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: "anikanastarin.com.bd",
+  siteUrl: "portfolio-blond-two-96.vercel.app",
   generateRobotsTxt: true, // (optional)
   // ...other options
 };

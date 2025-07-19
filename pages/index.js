@@ -54,8 +54,14 @@ export default function Home() {
           content="Anika Nastarin - Assistant School Teacher"
         />
         <meta name="impact-site-verification" value="" />
-        <link href="" rel="canonical" />
-        <meta content="" property="og:url" />
+        <link
+          href="https://portfolio-blond-two-96.vercel.app"
+          rel="canonical"
+        />
+        <meta
+          content="https://portfolio-blond-two-96.vercel.app"
+          property="og:url"
+        />
         <meta
           content="Anika Nastarin - Assistant School Teacher"
           name="author"
