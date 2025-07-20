@@ -14,7 +14,10 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta httpEquiv="content-language" content="en-US" />
         <meta name="robots" content="follow, index" />
-        <meta name="google-site-verification" content="" />
+        <meta
+          name="google-site-verification"
+          content="ASsgcYLFFnR2oP_y0CaD6PvyjuKLE3cq96o5eHrdOW4"
+        />
         <meta name="yandex-verification" content="" />
 
         <meta name="facebook-domain-verification" content="" />
