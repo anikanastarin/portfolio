@@ -97,7 +97,7 @@ const Header = () => {
           <Image
             src={profileImage}
             alt="Mushfiqur Rahman's Profile Picture"
-            className="aspect-square h-full w-full dark:bg-lime-600 bg-amber-700"
+            className="aspect-square h-full w-full dark:bg-yellow-600 bg-amber-700"
           />
         </div>
       </header>
