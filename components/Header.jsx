@@ -3,7 +3,6 @@ import React from "react";
 import {
   FaGithub,
   FaLinkedinIn,
-  FaWhatsapp,
   FaMapMarkerAlt,
   FaResearchgate,
 } from "react-icons/fa";
@@ -72,7 +71,7 @@ const Header = () => {
 
             <Link
               className="inline-flex items-center justify-center whitespace-nowrap rounded-md text-sm font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input size-8 hover:scale-110 ease-in duration-300"
-              href="https://www.linkedin.com/in/anika-nastareen"
+              href="https://www.linkedin.com/in/anikanastarin"
               rel="noreferrer"
               target="_blank"
               aria-label="LinkedIn"
